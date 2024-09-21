@@ -1,4 +1,3 @@
-![Softworks Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Softworks+Studio)
 
 # Welcome to Softworks Studio 👋
 
@@ -39,4 +38,3 @@ Reach out to us for any inquiries or support:
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-![Footer Banner](https://via.placeholder.com/1200x200.png?text=Innovating+the+Future+with+Softworks)
