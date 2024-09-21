@@ -1,10 +1,3 @@
-
-# Welcome to Softworks Studio 👋
-
-Softworks is a cutting-edge software development agency based in Egypt. We specialize in building innovative websites, applications, software, desktop apps, AI technologies, and open-source tools. Our mission is to deliver scalable solutions for businesses and developers alike. 
-
----
-
 ## 🚀 What We Do:
 - 🌐 **Web Development**: Crafting modern, responsive websites with the latest technologies.
 - 💻 **Software & Desktop Apps**: Developing robust desktop applications tailored to your needs.
@@ -16,7 +9,7 @@ Softworks is a cutting-edge software development agency based in Egypt. We speci
 ---
 
 ## 📲 Connect with Us:
-- 🌍 **Website**: Coming Soon
+- 🌍 **Website**: [softworks.studio](https://softworks.studio/)
 - 📸 **Instagram**: [softworks.studio](https://www.instagram.com/softworks.studio/)
 
 ---
@@ -32,9 +25,3 @@ Reach out to us for any inquiries or support:
 ## 🎓 Leadership:
 - **Founder**: [founder@softworks.studio](mailto:founder@softworks.studio)
 - **CEO**: [ceo@softworks.studio](mailto:ceo@softworks.studio)
-
----
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
